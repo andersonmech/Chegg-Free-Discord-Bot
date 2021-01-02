@@ -26,7 +26,7 @@ If everything is done, just type ```python3 trial.py```
 # Suggestions :
 I suggest you to use python 3.8+
 
-# If you need to contact me or want to join my channel, my discord is :
+# If you have questions or want to join my channel, my discord is :
 ```asmodeus#9771```
 
 # Demo for Free Bot:
