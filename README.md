@@ -1,4 +1,4 @@
-# Chegg-Discord-Bot-Free
+# Chegg-Discord-Bot
 Chegg Bot for Discord ```Free Version```
 
 # Information :
