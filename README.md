@@ -28,3 +28,6 @@ I suggest you to use python 3.8+
 
 # If you need to contact me or want to join my channel, my discord is :
 ```asmodeus#9771```
+
+# DEMO FOR FREE BOT:
+https://streamable.com/cvnmqy
